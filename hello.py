@@ -1,1 +1,2 @@
-print("hello")
+m=input("Labas ")
+print(m)
