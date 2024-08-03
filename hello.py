@@ -1,2 +1,2 @@
-m=input("Labas ")
+m=input("NeLabas ")
 print(m)
